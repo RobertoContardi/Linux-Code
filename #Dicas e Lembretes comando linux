@@ -1,0 +1,18 @@
+#Dicas e Lembretes comando linux
+
+"git clone https://"          #git clone colocamos a URL do repositório que desejamos clonar.
+
+"ls" #Para verificar o conteúdo da home da pessoa usuária, utilizamos o comando ls abreviação de lista.
+
+"cd" cd ./, #que significa change directory ("mudar diretório") seguido pelo nome do diretório que desejamos navegar.
+
+"clear" #Após limpar a tela, digitamos pwd para exibir o caminho completo do diretório atual.
+
+"pwd" #Após limpar a tela, digitamos pwd para exibir o caminho completo do diretório atual.
+
+"cd ./root" #Estamos na raiz do sistema e tentaremos acessar o diretório root. Essa pasta contém arquivos de configuração e bibliotecas pertencentes ao superusuário, conhecido como root, que possui privilégios administrativos.
+
+"cd ./usr" #o diretório usr, que se refere a user ("usuário") e armazena arquivos, aplicativos e bibliotecas utilizados pelos usuários do sistema.
+
+"/etc" #armazenamento de arquivos de configuração do sistema.
+
