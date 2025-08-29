@@ -16,3 +16,6 @@
 
 "/etc" #armazenamento de arquivos de configuração do sistema.
 
+"mkdir" criar um diretório.
+
+"touch" criar um arquivo.
