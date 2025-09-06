@@ -19,3 +19,10 @@
 "mkdir" criar um diretório.
 
 "touch" criar um arquivo.
+
+"tar -czf" Para isso, vamos usar o comando tar. Para especificar que queremos 
+criar um arquivo compactado, usamos o modificador c, depois o z para gerar um zip, e o f para nomear esse arquivo depois: -czf.
+
+"mv" para mover um dietorio.
+
+">>" O operador >> é usado para adicionar (anexar) texto ao final de um arquivo existente.
